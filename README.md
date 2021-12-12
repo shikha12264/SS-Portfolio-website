@@ -1,3 +1,5 @@
 # Shikha's-Portfolio-website
 
-https://shikha12264.github.io/SS-Portfolio-website/
+## Live on : https://shikha12264.github.io/SS-Portfolio-website/
+
+## Live on : https://shikha-singh.herokuapp.com/
